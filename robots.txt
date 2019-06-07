@@ -1,0 +1,4 @@
+# no robots
+User-agent: *
+Disallow: /cgi-bin/
+
